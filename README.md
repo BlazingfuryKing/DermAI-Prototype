@@ -1,5 +1,4 @@
 # BBCS-2023-June-Conference-AI
-
 DermAI: an AI model that is trained to identify benign and malignant skin pigments
 
 Inspiration: Skin cancer is a significant global health concern, and early detection plays a crucial role in improving patient outcomes. Traditional methods of diagnosing skin cancer often rely on visual examination by dermatologists, which can be subjective and prone to human error.
@@ -15,4 +14,3 @@ Accomplishments that we're proud of: We successfully managed to create a working
 What we learned: We have learnt how to train a model using Yolov5 and use Gradio as an interface for uploading and displaying the images, we have also learnt how to evaluate metrics to test the AI model.
 
 What's next for DermAI: We will try to add features such as the use of a webcam for greater convenience to users and to implement it as a web app or mobile app for greater accessibility and usability. We would also try implementing different augmentations, various training, validation and testing data ratios, and try creating a model with the newer Yolov8.
-
